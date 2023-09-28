@@ -1,4 +1,4 @@
-## Actividad3
+## Actividad 3
 Actividad 3 del curso Computación en Java
 
 Esta Actividad es una aplicación que simula una baraja de cartas, desarrollado por Andrés Eduardo Vázquez Pérez (Matrícula: AL03065873).
